@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model output
+fiqa-finetuned/
+
+# HuggingFace cache (large)
+.cache/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
