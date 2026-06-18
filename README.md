@@ -23,7 +23,7 @@ its known-relevant documents appears in the top 10 retrieved).
 
 > The two fine-tuned rows are filled in after running `train.py` and
 > re-running the evaluation. They are intentionally left blank until those
-> numbers are real — do not estimate them.
+> numbers are real.
 
 ## Why this is non-trivial
 
