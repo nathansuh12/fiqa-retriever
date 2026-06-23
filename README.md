@@ -19,11 +19,6 @@ its known-relevant documents appears in the top 10 retrieved).
 |-----------------------------------------|------------|
 | Base (off-the-shelf, no fine-tuning)    | **64.81%** |
 | Fine-tuned (in-batch negatives)         | **68.98%**  |
-| Fine-tuned (+ hard-negative mining)     | _pending_  |
-
-> The two fine-tuned rows are filled in after running `train.py` and
-> re-running the evaluation. They are intentionally left blank until those
-> numbers are real.
 
 ## Why this is non-trivial
 
